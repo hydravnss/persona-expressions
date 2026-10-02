@@ -1,0 +1,13 @@
+{
+    "display_name": "Persona Expressions",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "hydravnss",
+    "version": "1.0.0",
+    "minimum_client_version": "1.12.0",
+    "auto_update": true,
+    "homePage": "https://github.com/hydravnss/persona-expressions"
+}
